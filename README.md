@@ -8,6 +8,8 @@
   * 確率の基本的な表記方法などのメモ  
 * notebook_demo  
   * 実際のコードやグラフを用いたメモ  
+* rotate_error_ellipse  
+  * 誤差楕円を回転させるデモ
 ## Reference  
 [https://github.com/ryuichiueda/probrobo_practice](https://github.com/ryuichiueda/probrobo_practice)  
 
